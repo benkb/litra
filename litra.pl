@@ -5,8 +5,8 @@ use Getopt::Long;
 
 
 ## % LITRA(1)
-## % Ben Srctxt
-## % 2020-09-21,17:01
+## % Ben Jakob
+## % 2020-09-21
 
 ## # NAME 
 
